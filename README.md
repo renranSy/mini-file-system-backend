@@ -45,7 +45,7 @@ src/main/java/cn/renranz/backend/
 
 1. 克隆项目
 ```bash
-git clone [项目地址]
+git clone https://github.com/renranSy/mini-file-system-backend.git
 ```
 
 2. 配置数据库
