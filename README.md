@@ -89,18 +89,3 @@ mvn clean package
 ```bash
 java -jar target/backend-0.0.1-SNAPSHOT.jar
 ```
-
-## 贡献指南
-
-1. Fork 项目
-2. 创建功能分支
-3. 提交代码
-4. 发起 Pull Request
-
-## 许可证
-
-[待补充]
-
-## 联系方式
-
-[待补充] 
